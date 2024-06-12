@@ -1,4 +1,4 @@
-#  next-shadcn-ui-starter
+#  nextkit-shadcn-ui 
 
 A minimal boilerplate for creating Next.js  with ShadCN UI.
 

@@ -1,20 +1,19 @@
-# next-shad-tailwind
+#  next-shadcn-ui-starter
 
-A boilerplate for creating Next.js projects with ShadCN UI, TailwindCSS, and ESLint.
+A minimal boilerplate for creating Next.js  with ShadCN UI.
 
 ## Features
 
 - **Next.js**: The latest version of Next.js.
 - **ShadCN UI**: Pre-integrated ShadCN UI components.
 - **TailwindCSS**: Utility-first CSS framework for rapid UI development.
-- **ESLint**: Configured with Airbnb's style guide for consistent code quality.
 
 ## Getting Started
 
 ### Prerequisites
 
 - Node.js (LTS version recommended)
-- npm or yarn
+- pnpm
 
 ### Installation
 
@@ -41,7 +40,7 @@ A boilerplate for creating Next.js projects with ShadCN UI, TailwindCSS, and ESL
 
 ## Usage
 
-- Start developing by editing files in the `pages`, `components`, and `styles` directories.
+- Start developing by editing files in the `src` directory.
 - TailwindCSS is configured and ready to use in your CSS files.
 - ShadCN UI components can be imported and used in your React components.
 
@@ -50,14 +49,6 @@ A boilerplate for creating Next.js projects with ShadCN UI, TailwindCSS, and ESL
 ### TailwindCSS
 
 TailwindCSS configuration is located in `tailwind.config.js`.
-
-### ESLint
-
-ESLint configuration is located in `.eslintrc.json`.
-
-## Updating Dependencies
-
-This project uses GitHub Actions to automatically update dependencies. The workflow file is located at `.github/workflows/update-dependencies.yml`.
 
 ## Contributing
 

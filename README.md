@@ -22,18 +22,26 @@ A minimal boilerplate for creating Next.js  with ShadCN UI.
 
 1. **Clone the repository**:
 
+   ```bash
+   
+    npx degit anisches/nextkit-shadcn-ui <YOUR_APP_NAME>   
+    
+    ```
+   (or)
+   
     ```bash
-    git clone https://github.com/yourusername/next-shad-tailwind.git
-    cd next-shad-tailwind
+    
+    git clone https://github.com/anisches/nextkit-shadcn-ui
+
     ```
 
-2. **Install dependencies**:
+3. **Install dependencies**:
 
     ```bash
-    pnpm 
+    pnpm install
     ```
 
-3. **Run the development server**:
+4. **Run the development server**:
 
     ```bash
     pnpm dev

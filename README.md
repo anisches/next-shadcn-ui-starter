@@ -2,7 +2,8 @@
 
 A minimal boilerplate for creating Next.js  with ShadCN UI.
 
-![kit01.png](https://postimg.cc/kBc648tV)
+
+[![kit01.png](https://i.postimg.cc/P5GmSQXM/kit01.png)](https://postimg.cc/kBc648tV)
 
 ## Features
 

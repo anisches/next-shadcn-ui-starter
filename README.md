@@ -23,7 +23,7 @@ A minimal boilerplate for creating Next.js  with ShadCN UI.
 1. **Clone the repository**:
 
    ```bash 
-      npx degit anisches/nextkit-shadcn-ui <YOUR_APP_NAME>   
+   npx degit anisches/nextkit-shadcn-ui <YOUR_APP_NAME>   
     ```
    (or)
    

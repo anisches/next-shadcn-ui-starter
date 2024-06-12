@@ -50,10 +50,4 @@ A minimal boilerplate for creating Next.js  with ShadCN UI.
 
 TailwindCSS configuration is located in `tailwind.config.js`.
 
-## Contributing
 
-Feel free to open issues or submit pull requests to help improve this boilerplate.
-
-## License
-
-This project is licensed under the MIT License.

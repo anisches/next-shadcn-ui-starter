@@ -3,7 +3,7 @@
 A minimal boilerplate for creating Next.js  with ShadCN UI.
 
 
-[header image](https://postimg.cc/kBc648tV)
+[header image]([https://postimg.cc/kBc648tV](https://i.postimg.cc/P5GmSQXM/kit01.png))
 
 ## Features
 
